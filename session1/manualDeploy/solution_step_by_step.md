@@ -53,6 +53,19 @@ ipconfig
 ```
 Look for the `IPv4 Address` under your network adapter's details. 
 
+### Open the windows Firewall
+1. Press the `start` button and type "firewall".
+2. Go to "Firewall & network protection". 
+3. Go to "Advanced settings".
+4. Right click on "Inbound rules" in the right sidebar.
+5. Click "New rule..."
+6. Select "Port" and "Next".
+7. Select "TCP" and "Specific local port".
+8. Type the port number you selected in the `.env` file and press "Next".
+9. Select "Allow the connection" and "Next".
+10. Select all checkboxes.
+11. Give it any name you like, for example "DevOps APP". Click "Finish".
+
 ### Step 8: Open the Application in Your Browser
 Now, open your browser and go to the following URL, replacing `<ipaddress>` with your actual IPv4 address:
 ```
