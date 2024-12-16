@@ -22,11 +22,7 @@ Replace the xxxx by the port of choice.
 
 
 ## Hint: Get Your IPv4 Address
-To access the application in a browser, you'll need your VM's IP address. Run the following command to find it:
-```bash
-ipconfig
-```
-Look for the `IPv4 Address` under your network adapter's section. 
+To access the application from a browser, you need to find your local machine's IP address. Navigate to: https://whatismyipaddress.com/
 
 ## Hint: Open a firewall for the port
 You should be able to open the app on the IP address of your VM, not just `localhost`. Something like (but not exactly) `http://172.31.1.68:8000/`.

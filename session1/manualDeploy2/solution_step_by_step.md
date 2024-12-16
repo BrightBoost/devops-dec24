@@ -26,11 +26,7 @@ npm start
 ```
 
 ### Step 5: Find Your IPv4 Address
-To access the application from a browser, you need to find your local machine's IP address. In the terminal, run the following command:
-```bash
-ipconfig
-```
-Look for the `IPv4 Address` under your network adapter's details. 
+To access the application from a browser, you need to find your local machine's IP address. Navigate to: https://whatismyipaddress.com/
 
 ### Step 8: Open the Application in Your Browser
 Now, open your browser and go to the following URL, replacing `<ipaddress>` with your actual IPv4 address:
@@ -70,11 +66,7 @@ npm start
 ```
 
 ### Step 6: Find Your IPv4 Address
-To access the application from a browser, you need to find your local machine's IP address. In the terminal, run the following command:
-```bash
-ipconfig
-```
-Look for the `IPv4 Address` under your network adapter's details.
+To access the application from a browser, you need to find your local machine's IP address. Navigate to: https://whatismyipaddress.com/
 
 ### Open the windows Firewall
 1. Press the `start` button and type "firewall".
