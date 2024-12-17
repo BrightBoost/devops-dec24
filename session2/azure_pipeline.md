@@ -16,10 +16,8 @@
 4. **Deploy the Web App**: Click **Create** to deploy the web app. Wait for the deployment to complete; you’ll see a notification when it’s ready.
 
 ### Step 3: Set up Azure DevOps
-1. **Go to Azure DevOps**: Visit [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/) and click on **Get started with Azure**. Then, click **Start Azure for free**.
-2. **Set Up DevOps Organization**:
-   - Log in and create an organization if you don’t have one. Leave the default organization name and choose **United States** for project hosting.
-   - Solve the CAPTCHA.
+1. In the portal, search for Azure Devops.  
+2. Click on Azure Devops Organisations. In there, click on `My Azure Organisations` and create a new organization.
 3. **Create a New Project**:
    - Once your Azure DevOps organization is ready, click **Create Project**.
    - Name it `DemoNode` and click **Create**.
